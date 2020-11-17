@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218282803966",
+    "firebase_url": "https://chatfx-5bdd8.firebaseio.com",
+    "project_id": "chatfx-5bdd8",
+    "storage_bucket": "chatfx-5bdd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218282803966:android:c03dc01f713fa2d02f1baf",
+        "android_client_info": {
+          "package_name": "com.example.chat_fx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218282803966-nntocu3n3tkuvijol8e1thkh4grmiuu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7NNqbwXZrZ4HB75O9kLm62ATKSLkUSXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218282803966-nntocu3n3tkuvijol8e1thkh4grmiuu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
